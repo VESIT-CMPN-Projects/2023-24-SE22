@@ -15,4 +15,4 @@ TarangAI stands as an innovative AI-powered music generator leveraging Python fo
 - [Vinnet Chelani](https://github.com/Vineetchelani1304)
 - [Latish Adwani](https://github.com/Latish705)
 
-## Mentor: Dr. (Mr.) Sanjay Mirchandani
+## Mentor: Prof. (Mr.) Sanjay Mirchandani
